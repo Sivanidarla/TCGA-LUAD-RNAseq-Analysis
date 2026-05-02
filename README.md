@@ -1,4 +1,4 @@
-# TCGA-LUAD-RNAseq-Analysis
+# TCGA-LUAD RNA-seq Analysis
 
 ## Overview
 This repository contains a reproducible R-based workflow for the analysis of Lung Adenocarcinoma (LUAD) RNA-seq data from TCGA. The project focuses on characterizing transcriptional shifts, evaluating biomarker performance, and analyzing differences between molecular subtypes (PP vs TRU).

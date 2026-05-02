@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a reproducible R-based workflow for the analysis of Lung Adenocarcinoma (LUAD) RNA-seq data from TCGA. The project focuses on characterizing transcriptional shifts, evaluating biomarker performance, and analyzing differences between molecular subtypes (PP vs TRU).
 
-![Main Analysis Result](plots/volcano_main_symbols.png)
+![Main Analysis Result](plots/volcano_plot.png)
 
 ## Key Highlights
 - **Differential Expression:** Identified 24,073 significant genes (adj. P < 0.05) between tumor and normal samples.  
